@@ -1,0 +1,5 @@
+VNet
+Service Principal
+Log Analytics ()
+AKS
+Storage Account (最初ではだめなのか？)
